@@ -1,0 +1,9 @@
+a,1
+b,1
+c,1
+d,1
+6,4
+raz,2
+tri,1
+dva,2
+chetire,1
